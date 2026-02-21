@@ -75,7 +75,9 @@ section h2 {
   height: 180px;
   border-radius: 50%;
   object-fit: cover;
+  object-position: top;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  
 }
 
 /* Projects */
