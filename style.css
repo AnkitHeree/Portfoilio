@@ -99,6 +99,11 @@ section h2 {
   text-align: center;
 }
 
+.project-card a{
+  text-decoration: none;
+  color: #1e6104;
+}
+
 .project-card:hover {
   transform: scale(1.05);
 }
